@@ -1,0 +1,18 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Compiled Dynamic/Static libraries
+*.so
+*.dylib
+*.a
+
+# Executables
+*.exe
+*.out
+*.app
+rowdb
+
+# IDEs and Editors
+.vscode/
+.obsidian/
