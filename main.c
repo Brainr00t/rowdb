@@ -1,7 +1,6 @@
 #include <stdio.h>
 
 int main(int argc, char** argv) {
-    printf("Hello World\n");
-    printf("Does this compile\n");
+    printf("Hello World\n");asdf
     return 0;
 }
